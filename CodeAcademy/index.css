@@ -1,0 +1,80 @@
+
+*{
+    box-sizing: border-box;
+}
+.texts {
+    padding-top: 30px;
+}
+.cod {
+    margin-bottom: -3px;
+
+    font-size: 52px;
+
+    padding-bottom: -11px;
+
+    margin-left: 5px;
+    font-weight: 100;
+    letter-spacing: 2.2px;
+}
+.academy {
+    font-size: 46px;
+    font-weight: bold;
+    position: relative;
+}
+.CodeImg {
+    margin-top: 12px;
+    width: 145px;
+    height: 3px;
+    margin-left: 8px;
+}
+p {
+    padding-top: 20px;
+    font-weight: 400;
+    width: 544px;
+    font-size: 16px !important;
+    letter-spacing: normal;
+    line-height: 1.5;
+    color: #323232;
+}
+.codes
+{
+    padding-top: 40px;
+}
+.item{
+    display: flex;
+}
+.desc img{    margin: 34px 4px 8px 19px;
+    width: 189px;
+    height: 166px;
+}
+.item-text{
+    margin-left: 60px;
+    margin-top: 7px;
+}
+.item-text p{
+    width: 362px;
+    padding: 8px 40px 39px 1px;
+}
+.item-text h4{
+    margin-top: 10px;
+    width: 240px;
+    font-weight: bold;
+}
+.left{
+    height: 289px;
+    width: 678px;
+}
+.tops{
+    padding-top: 86px !important;
+}
+.col-lg-6{
+    background-color: white;
+}
+/* .col-lg-6:hover{
+    background-color: rgb(240, 240, 240);
+    
+    box-shadow: 0px 3px 6px 0px;
+    border-radius: 4px;
+    transition: .3s linear;
+} */
+
